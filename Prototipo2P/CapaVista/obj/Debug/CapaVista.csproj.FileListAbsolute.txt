@@ -1,0 +1,9 @@
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
