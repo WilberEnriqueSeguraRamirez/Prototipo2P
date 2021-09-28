@@ -1,0 +1,16 @@
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\APP.exe.config
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\APP.exe
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\APP.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\CapaVista.dll
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\CapaVista.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.Properties.Resources.resources
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.csproj.GenerateResource.cache
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.csproj.CopyComplete
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.exe
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\obj\Debug\APP.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\CapaControlador.dll
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\CapaControlador.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2Papp\APP\bin\Debug\CapaModelo.pdb
