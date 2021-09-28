@@ -40,5 +40,11 @@ namespace CapaVista
             ConsultaGen forma = new ConsultaGen();
             forma.Show();
         }
+
+        private void consultaIndividualToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCI forma = new frmCI();
+            forma.Show();
+        }
     }
 }

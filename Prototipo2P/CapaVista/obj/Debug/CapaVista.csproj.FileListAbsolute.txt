@@ -14,3 +14,5 @@ C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\C
 C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
 C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.ConsultaGen.resources
 C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmEliminar.resources
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmCI.resources
+C:\Users\wilbe\OneDrive\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmMod.resources

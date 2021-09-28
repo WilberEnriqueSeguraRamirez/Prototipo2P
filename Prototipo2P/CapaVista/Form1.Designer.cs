@@ -124,6 +124,7 @@ namespace CapaVista
             this.consultaIndividualToolStripMenuItem.Name = "consultaIndividualToolStripMenuItem";
             this.consultaIndividualToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.consultaIndividualToolStripMenuItem.Text = "Consulta Individual";
+            this.consultaIndividualToolStripMenuItem.Click += new System.EventHandler(this.consultaIndividualToolStripMenuItem_Click);
             // 
             // herramientasToolStripMenuItem
             // 

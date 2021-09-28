@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.Odbc;
 using CapaModelo;
 using System.Collections;
+using System.Data;
 namespace CapaControlador
 {
     public class clsControlador
@@ -21,14 +22,22 @@ namespace CapaControlador
             dt.Fill(table);
             return table;
         }
-        public DataTable llenarTbl2(string tabla, int id)
+
+        public void Identificacion (int dato)
         {
-            sn.llenarTbl2(tabla, id);
-            ArrayList dt = new ArrayList();
-            dt.Add(tabla);
-            dt.Add(id);
-            DataTable table = new DataTable();
+            sn.Identificacion(dato);
+        }
+        public DataTable llenarTbl2(string tabla)
+        {
+            //sn.llenarTbl2(id);
+            //ArrayList dt = new ArrayList();
+            // dt.Add(tabla);
+            //dt.Add(id);
+            //DataTable table = new DataTable();
             // dt.Fill(table);
+            OdbcDataAdapter dt = sn.llenarTbl2(tabla);
+            DataTable table = new DataTable();
+            dt.Fill(table);
             return table;
         }
         public void inserTC(int id, string nombre, string puesto,int idDepto)
@@ -38,6 +47,18 @@ namespace CapaControlador
         public void Eliminar(int id)
         {
             sn.Eliminar(id);
+        }
+
+        public ArrayList cnInd (int id)
+        {
+            var arlist = sn.cnInd(id);
+
+            return arlist;
+        }
+
+        public void Mod(int id, string nom, string puesto, int idDepto, int estado)
+        {
+            sn.Mod(id, nom, puesto, idDepto, estado);
         }
     }
 }
